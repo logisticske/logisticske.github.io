@@ -1,0 +1,9 @@
+{
+  "projectName": "tailwind-elements-free",
+  "meta": {
+    "type": "frontend",
+    "starter": "tailwind-elements-free"
+  },
+  "packageManager": "npm",
+  "hash": "b87cf32d"
+}
