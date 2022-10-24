@@ -3,7 +3,7 @@ import mastercard from "./mastercard.png";
 import card from "./card.png";
 import mpesa from "./mpesa.png";
 import paypal from "./paypal.png";
-import logo from "./logo.png";
+import logo from "./logo.jpeg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
